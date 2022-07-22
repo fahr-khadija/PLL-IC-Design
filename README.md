@@ -1,7 +1,8 @@
 # PLL-IC-Design
 8x PLL Clock Multiplier IP on the Google-Skywater 130nm node
 # Phase-Locked Loop IC design using Open-Source PDK
-<img src = "general/pll_workshop.png" width="90%" height="90%">
+![image](https://user-images.githubusercontent.com/100168693/180336530-707c27e4-641f-4251-b323-d4a378cb87e5.png)
+
 This repository reflects the work done in the PHASE-LOCKED LOOP (PLL) IC Design using Open-Source PDK workshop, offered by VLSI System Design Corp. Pvt. Ltd in collaboration with Lakshmi Sathi. It is a 2-day workshop aiming to familiarise ourselves with open source tools, PDKs, Analog Design, and TapeOut Process under efabless.com. Furthermore, if you are a beginner, and visiting this GitHub repository, you can follow these steps to Design and Layout your own PLL IC.
 
 PLL- Need: To generate clk signal with spectral purity which is otherwise difficult to achieve with only VCO(Voltage Controlled Oscillator) or only Quartz crystal.
